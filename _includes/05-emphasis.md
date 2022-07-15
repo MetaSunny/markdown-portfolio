@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Cheese**
+_Goat_
+
+_**Cheese_Goat_**_
+*Goat
+# Hey
+## Yo
+1. Good Job
+2. Troy
+**_Cheese_**
